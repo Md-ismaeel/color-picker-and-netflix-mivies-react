@@ -1,0 +1,146 @@
+{
+  "colorData": [
+    {
+      "id": "1",
+      "name": "PINK",
+      "color": "#FF6663"
+    },
+    {
+      "id": "2",
+      "name": "GRAY",
+      "color": "#333333"
+    },
+    {
+      "id": "3",
+      "name": "BLACK",
+      "color": "#000000"
+    },
+    {
+      "id": "4",
+      "name": "GREEN",
+      "color": "#38BB14"
+    },
+    {
+      "id": "5",
+      "name": "RED",
+      "color": "#C90B0B"
+    },
+    {
+      "id": "6",
+      "name": "YELLOW",
+      "color": "#FFF500"
+    },
+    {
+      "id": "7",
+      "name": "LIGHT GRAY",
+      "color": "#CCCCCC"
+    },
+    {
+      "id": "8",
+      "name": "PURPLE",
+      "color": "#7E41A2"
+    },
+    {
+      "id": "9",
+      "name": "BROWN",
+      "color": "#C14911"
+    },
+    {
+      "id": "10",
+      "name": "ACid GREEN",
+      "color": "#B0BF1A"
+    },
+    {
+      "id": "11",
+      "name": "ABSOLUTE ZERO",
+      "color": "#0048BA"
+    },
+    {
+      "id": "12",
+      "name": "ALIZARIN CRIMSON",
+      "color": "#E32636"
+    },
+    {
+      "id": "13",
+      "name": "ALICE BLUE",
+      "color": "#F0F89F"
+    },
+    {
+      "id": "14",
+      "name": "AQUAMARINE1",
+      "color": "#7FFFD4"
+    },
+    {
+      "id": "15",
+      "name": "BABY BLUE",
+      "color": "#89CFF0"
+    },
+    {
+      "id": "16",
+      "name": "CADET BLUE",
+      "color": "#98F5FF"
+    },
+    {
+      "id": "18",
+      "name": "PINK FLAMINGO",
+      "color": "#FC74FD"
+    },
+    {
+      "id": "19",
+      "name": "PISTACHIO",
+      "color": "#93C572"
+    },
+    {
+      "id": "17",
+      "name": "ORCHid",
+      "color": "#DA70D6"
+    },
+    {
+      "id": "20",
+      "name": "ORANGE",
+      "color": "#FF5A36"
+    }
+  ],
+  "movieData": [
+    {
+      "name": "Bright",
+      "actor": "David Ayer",
+      "releaseDate": "2017,",
+      "timeDuration": "1hr 57min",
+      "type": "Action,Crime,Fantasy",
+      "description": "Set in a world where fantasy creatures live side by | side with humans. A human cop is forced to work with an Orc to find a weapon everyone isprepared to kill for.",
+      "bgImage": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABffPAIPjEhT-aDZ2CPJqSvpx5OnrhKOXDYgwT2PIskGUmpJtnTgSHsWnJv84EVD_6XUt0hcgOVdyF2REM8Mvcia5Dx7rLq1QprqQ.jpg?r=b7e",
+      "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbT_ZfjFBokFzHPdutI2o1VBMX1CkoSQbZ9oAeZdSpTmMItUJH"
+    },
+    {
+      "name": "Tomb Rider",
+      "actor": "Roar Uthaug",
+      "releaseDate": "2018,",
+      "timeDuration": "125min",
+      "type": "Action,Fantasy",
+      "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+      "bgImage": "https://m.media-amazon.com/images/I/91lU6vrth2L._AC_UF1000,1000_QL80_.jpg",
+      "posterImage": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXP5NNG/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=300&w=200&format=jpg"
+    },
+    {
+      "name": "Beyond Skyline",
+      "actor": "Frank Grillo",
+      "releaseDate": "2017,",
+      "timeDuration": "1hr 46min",
+      "type": "Sci-Fi",
+      "description": "In the wake of an extraterrestrial invasion, a suspended L.A. cop teams up with survivors to stop the onslaught and rescue human captives.",
+      "bgImage": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWeWFoxhwbmVFgKDNPIYMSi5LseR1Z2bg4w4Tt6em_WaoTyeuFCZqCXecmQMqzOAPHXPHyKfqo01tbd80Q2MUt-6oFSadTBj3E-f.jpg?r=4ff",
+      "posterImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA8db0wLL666ffkmbTGCvkLN7nJ70j5rSe2Vkv60_lkNyxVioBTTWt271DFndpk760V5Wg"
+    },
+    {
+      "name": "Extinction",
+      "actor": "Jack Reynor",
+      "releaseDate": "2017,",
+      "timeDuration": "1h 35min",
+      "type": "Sci-Fi",
+      "description": "Plagued by dreams of an alien invasion, a family man faces his worst nightmare when an extraterrestrial force begins exterminating Earth's inhabitants.",
+      "bgImage": "https://media.nationalgeographic.org/assets/photos/245/530/b8b787f4-530b-46b4-8354-773a623f4233.jpg",
+      "posterImage": "https://m.media-amazon.com/images/M/MV5BMTU5OTYzMzcwOF5BMl5BanBnXkFtZTgwNTkzMzk4NTM@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+}

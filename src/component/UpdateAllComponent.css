@@ -1,0 +1,30 @@
+.h1Tag {
+  text-align: center;
+}
+
+.color-box {
+  width: 100vw;
+  height: auto;
+  margin-bottom: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+.movie-component {
+  width: 100vw;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0rem;
+  background-color: #000000;
+}
+
+#hexCode:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
